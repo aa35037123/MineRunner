@@ -12,7 +12,4 @@ conda activate malmo_env
 pip install gym lxml numpy pillow
 cd Minecraft && ./launchClient.sh
 ```
-### Windows
-```bash
-```
 ## References
